@@ -72,3 +72,6 @@ Criação de um ChatBot utilizando o serviço da AWS Amazon-Lex
 - Build
 
 - Test
+
+![Imagem do teste realizado](https://github.com/Mayconfuzita86/live_dio_amazon_lex/blob/main/awsLex.PNG?raw=true)
+
